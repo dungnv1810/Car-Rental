@@ -1,0 +1,19 @@
+.contact__btn{
+    background: #000d6b !important;
+    color: #fff !important;
+}
+.contact__info a{
+    text-decoration: none;
+    color: #000d6b !important;
+    font-weight: 500;
+}
+.contact__info a:hover{
+    color: #000d6b;
+}
+
+@media only screen and (max-width: 768px) {
+    .contact__btn{
+        margin-bottom: 30px;
+    }
+    
+}

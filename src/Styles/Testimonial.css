@@ -1,0 +1,12 @@
+.testimonial img{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    border: 2px solid #000d6b;
+}
+@media only screen and (max-width: 768px) {
+    .testimonial p{
+        font-size: .8rem;
+        line-height: 1.5rem;
+    }
+}
